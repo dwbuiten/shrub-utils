@@ -1,0 +1,1 @@
+open z,"<",shift; while(<z>){print($i-2) if /isRAP/; $i++}

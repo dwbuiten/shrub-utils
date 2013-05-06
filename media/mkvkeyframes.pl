@@ -1,0 +1,1 @@
+$i=-1;for(`mkvinfo -s @ARGV`){/I/?print$i++.$/:$i++if/k 1/}
