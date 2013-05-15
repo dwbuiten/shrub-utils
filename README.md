@@ -77,6 +77,12 @@ Whatever I remember about these is documented here.
 **Description**: Generates a frame range list given a [YATTA](http://ivtc.org/)-produced [Avisynth](http://avisynth.org/mediawiki/Main_Page) script.<br />
 **Use**: Supplements *conv.pl*; generates frame ranges it takes as input. I was too lazy to combine scripts.<br />
 
+## media/fu.c ##
+
+**Author**: Me<br />
+**Description**: Dumps the quantization matrices for luma and chroma from JPEG files. Probably buggy, very inefficient; written for a one-off experiment.<br />
+**Use**: Can be used to dump matrices for large collections of JPEGs.<br />
+
 ## media/inv.pl ##
 
 **Author**: Me<br />
